@@ -1,8 +1,9 @@
 Dominating sets algorithm simulation
 ====================================
 
-Lekkas Kostas - kwstasl@gmail.com 
-Project for Mobile and Ubiquitous computing course, fall 2010.
+Lekkas Kostas - kwstasl@gmail.com
+
+Project for Mobile and Ubiquitous computing course, University of Thessaly,  fall 2010.
 
 
 Description
@@ -29,6 +30,7 @@ Compiling
 ---------
 
 Simply invoke:
+
 	make
 
 Usage
