@@ -281,7 +281,7 @@ void Tokenize(const string& line, vector<double>& tokens) {
 
 int parseFile(string s) {
     if(s.empty())
-        s.assign("default.txt");
+        s.assign("./node_configurations/default.txt");
         //ifstream myfile ("nodes.txt");
 
     ifstream myfile (s.c_str());
