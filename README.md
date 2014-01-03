@@ -38,4 +38,4 @@ Run
 
 	./dom_sets [input_file]
 
-The `input_file` is a text file with the coordinates of the nodes. If the nodes are placed within broadcast range, a communication link is automatically created/drawed. This range is hard-coded as `BCAST_RADIUS` in `main.cpp`. The coordinates use the lower left corner of the simulation window as the origin point.
+The `input_file` is a text file with the coordinates of the nodes. If the nodes are placed within broadcast range, a communication link is automatically created/drawed. This range is hard-coded as `BCAST_RADIUS` in `main.cpp`. The lower left corner of the simulation window is the origin point.
