@@ -1,8 +1,6 @@
 Dominating sets algorithm simulation
 ====================================
 
-Lekkas Kostas
-
 Project for Mobile and Ubiquitous computing course, University of Thessaly,  fall 2010.
 
 
